@@ -1,7 +1,7 @@
 ### Hi there, I'm Ben - [website] 👋
 
 ## I'm a Husband, Father, and Developer
-- 🔭 I’m currently working on a [Reviews Sites][project]!
+- 🔭 I have just completed a 16 week long project [Reviews Sites][project]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
