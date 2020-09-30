@@ -3,7 +3,6 @@
 ## I'm a Husband, Father, and Developer
 - 🔭 I have just completed a 16 week long project [Reviews Sites][project]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games.
 
