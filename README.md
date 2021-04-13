@@ -1,7 +1,6 @@
 ### Hi there, I'm Ben - [portfolio][website] 👋
 
 ## I'm a Husband, Father, and Developer
-- 🔭 I have just completed a 16 week long project [Reviews Sites][project]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games.
