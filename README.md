@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father, and Developer
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Connect more and reach outs. 
 - ⚡ Fun fact: I love to play video games.
 
 ### Connect with me:
